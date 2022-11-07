@@ -40,15 +40,16 @@ footer {
     margin: 0 auto;
 }
 
-footer:nth-of-type(1) {
+div:nth-of-type(1) {
     flex: 1;
 }
 
-footer:nth-of-type(2) {
-    flex: 1;
+div:nth-of-type(2) {
+    background: #999;
+    flex: 10;
 }
 
-footer:nth-of-type(3) {
+div:nth-of-type(3) {
     flex: 1;
 }
 
