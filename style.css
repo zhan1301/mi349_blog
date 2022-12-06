@@ -99,7 +99,7 @@ article:nth-of-type(2) {
 }
 
 /* Media Queries */
-@media (max-width: 800px) {
+@media (max-width: 400px) {
     main {
         background: red;
     }
